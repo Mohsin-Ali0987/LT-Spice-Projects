@@ -9,7 +9,4 @@ LTspice design and noise analysis of a transimpedance amplifier (TIA) front-end 
 
 **Tools:** LTspice · Analog front-end design · Noise analysis
 
-###  [MATLAB / Simulink Power Electronics Projects](./matlab-simulink-projects)
-A set of Simulink models covering multilevel inverter topology, three-phase impedance measurement, and a wind + solar hybrid grid-tied power system.
 
-**Tools:** MATLAB · Simulink · Simscape Power Systems
